@@ -1,0 +1,13 @@
+{
+  "version": "v20260909063507",
+  "algorithm": "random_forest",
+  "trained_on_rows": 800,
+  "metrics": {
+    "accuracy": 0.8,
+    "precision": 0.8333,
+    "recall": 0.75,
+    "f1_score": 0.7895
+  },
+  "file_path": "C:\\Users\\91944\\Desktop\\workforce-ai-pro\\backend\\app\\ml\\artifacts\\attrition_model_v20260909063507.joblib",
+  "trained_at": "2026-09-09T06:35:07.757197"
+}
